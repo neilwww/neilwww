@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neilwww a ex Overwatch pro player and now coder
+-  Hi, I’m @neilwww a ex Overwatch pro player and now coder
 -  I’m interested in Java and Python
 
 <!---
