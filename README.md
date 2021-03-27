@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm neilwww</h1>
-<h3 align="center"> :godmode: I'm a ex Overwatch professional player and now coder</h3>
+<h3 align="center"> :godmode: I'm an ex Overwatch professional player and now coder</h3>
 
 
 - 🌱 I’m currently learning **Java and Python**
