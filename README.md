@@ -1,9 +1,6 @@
 <h1 align="center">Hi , I'm neilwww</h1>
 <h3 align="center"> :godmode: I'm a ex Overwatch professional player and now coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neilwww&label=Profile%20views&color=0e75b6&style=flat" alt="neilwww" /> </p>
-
-<p align="left"> <a href="https://twitter.com/neilzinhow" target="blank"><img src="https://img.shields.io/twitter/follow/neilzinhow?logo=twitter&style=for-the-badge" alt="neilzinhow" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Python**
 
